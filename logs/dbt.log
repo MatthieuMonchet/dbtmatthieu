@@ -1,0 +1,79 @@
+
+
+============================== 2022-08-10 17:10:24.722611 | a65a964d-a8a5-4290-8aeb-1b8d882c0a7a ==============================
+[0m17:10:24.722611 [info ] [MainThread]: Running with dbt=1.2.0
+[0m17:10:24.722611 [debug] [MainThread]: running dbt with arguments {'write_json': True, 'use_colors': True, 'printer_width': 80, 'version_check': True, 'partial_parse': True, 'static_parser': True, 'profiles_dir': 'C:\\Users\\Matthieu\\.dbt', 'send_anonymous_usage_stats': True, 'event_buffer_size': 100000, 'quiet': False, 'no_print': False, 'project_name': 'dbtlearn', 'skip_profile_setup': False, 'which': 'init', 'indirect_selection': 'eager'}
+[0m17:10:24.723613 [debug] [MainThread]: Tracking: tracking
+[0m17:10:24.734614 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001C65945EE00>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001C65945D090>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001C65945EAD0>]}
+[0m17:10:24.734614 [info ] [MainThread]: Creating dbt configuration folder at C:\Users\Matthieu\.dbt
+[0m17:10:24.736616 [debug] [MainThread]: Starter project path: C:\Users\Matthieu\dbt_tuto\dbtenv\lib\site-packages\dbt\include\starter_project
+[0m17:14:37.762233 [info ] [MainThread]: Profile dbtlearn written to C:\Users\Matthieu\.dbt\profiles.yml using target's profile_template.yml and your supplied values. Run 'dbt debug' to validate the connection.
+[0m17:14:37.762233 [info ] [MainThread]: 
+Your new dbt project "dbtlearn" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m17:14:37.763233 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001C65941DAB0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001C65945E980>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001C65945E950>]}
+
+
+============================== 2022-08-10 17:20:39.391063 | c75f154a-561b-4bd8-88c6-e146e552730b ==============================
+[0m17:20:39.391063 [info ] [MainThread]: Running with dbt=1.2.0
+[0m17:20:39.392063 [debug] [MainThread]: running dbt with arguments {'write_json': True, 'use_colors': True, 'printer_width': 80, 'version_check': True, 'partial_parse': True, 'static_parser': True, 'profiles_dir': 'C:\\Users\\Matthieu\\.dbt', 'send_anonymous_usage_stats': True, 'event_buffer_size': 100000, 'quiet': False, 'no_print': False, 'project_name': 'dbtudemy', 'skip_profile_setup': False, 'which': 'init', 'indirect_selection': 'eager'}
+[0m17:20:39.393063 [debug] [MainThread]: Tracking: tracking
+[0m17:20:39.403065 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000024EBCA9C3D0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000024EBCA9EDD0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000024EBCA9E6B0>]}
+[0m17:20:39.405066 [debug] [MainThread]: Starter project path: C:\Users\Matthieu\dbt_tuto\dbtenv\lib\site-packages\dbt\include\starter_project
+[0m17:22:53.057826 [info ] [MainThread]: Profile dbtudemy written to C:\Users\Matthieu\.dbt\profiles.yml using target's profile_template.yml and your supplied values. Run 'dbt debug' to validate the connection.
+[0m17:22:53.058816 [info ] [MainThread]: 
+Your new dbt project "dbtudemy" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m17:22:53.059826 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000024EBCACCE50>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000024EBCACCFD0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000024EBCA9EB30>]}
+
+
+============================== 2022-08-10 17:23:32.249291 | f6db0156-3497-4152-8b2d-16e9364a937f ==============================
+[0m17:23:32.249291 [info ] [MainThread]: Running with dbt=1.2.0
+[0m17:23:32.249291 [debug] [MainThread]: running dbt with arguments {'write_json': True, 'use_colors': True, 'printer_width': 80, 'version_check': True, 'partial_parse': True, 'static_parser': True, 'profiles_dir': 'C:\\Users\\Matthieu\\.dbt', 'send_anonymous_usage_stats': True, 'event_buffer_size': 100000, 'quiet': False, 'no_print': False, 'project_name': 'dbtmatthieu', 'skip_profile_setup': False, 'which': 'init', 'indirect_selection': 'eager'}
+[0m17:23:32.250291 [debug] [MainThread]: Tracking: tracking
+[0m17:23:32.261294 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001FCF6A5C3A0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001FCF6A5EDA0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001FCF6A5E680>]}
+[0m17:23:32.262294 [debug] [MainThread]: Starter project path: C:\Users\Matthieu\dbt_tuto\dbtenv\lib\site-packages\dbt\include\starter_project
+[0m17:25:25.339892 [info ] [MainThread]: Profile dbtmatthieu written to C:\Users\Matthieu\.dbt\profiles.yml using target's profile_template.yml and your supplied values. Run 'dbt debug' to validate the connection.
+[0m17:25:25.340892 [info ] [MainThread]: 
+Your new dbt project "dbtmatthieu" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m17:25:25.340892 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001FCF6A8CE20>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001FCF6A8CFA0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001FCF6A5EB00>]}
